@@ -1,3 +1,7 @@
 file1.txt content
 
+guluzar made changes
+
+dwight made changes
+
 joe made some changes
